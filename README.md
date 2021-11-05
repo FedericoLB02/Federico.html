@@ -1,5 +1,5 @@
-# Federico.html
-<html lang= "es">
+
+# <html lang= "es">
 <head>
 <title>RNR - Game</title>
 <meta charset="UTF-8">
